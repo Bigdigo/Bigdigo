@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Rodrigo Balan
 
-- 🔭 Atualmente estou trabalhando como analista de mídias sociais para a empresa Elife
+- 💻 Atualmente estou trabalhando como analista de mídias sociais para a empresa Elife
 - 🌱 Estudando front-end
-- 🍃 Estou em transição de carreira
+- 🍃 Em transição de carreira
 <div>
   <a href="https://github.com/Bigdigo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bigdigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Balan
 
-- 🔭 Atualmente estou trabalhando como Analista de redes sociais para a empresa Elife
+- 🔭 Atualmente estou trabalhando como analista de mídias sociais para a empresa Elife
 - 🌱 Estudando front-end
 
 <picture>
